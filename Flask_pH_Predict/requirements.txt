@@ -1,0 +1,13 @@
+flask
+flask-cors
+requests
+supabase
+postgrest
+gotrue
+numpy
+pandas
+scikit-learn==1.6.1
+tensorflow
+joblib
+keras
+paho-mqtt
